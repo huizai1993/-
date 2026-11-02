@@ -1,0 +1,9 @@
+bin/
+obj/
+发布/
+*.exe
+*.msi
+*.pdb
+*.zip
+*.log
+.vs/
